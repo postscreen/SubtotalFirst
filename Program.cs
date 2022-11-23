@@ -1,4 +1,11 @@
-﻿// Prepare supported variables
+﻿/*
+    
+    "Subtotal Work" v 1.0
+    Powered by Sergey Morozov
+
+*/
+
+// Prepare supported variables
 int i = 0;
 List<string> incomingBuffer =  new List<string>();
 
